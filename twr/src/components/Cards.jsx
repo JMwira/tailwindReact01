@@ -7,7 +7,7 @@ import{
 
 function Cards(){
     return(
-        <div className='w-full py-[10rem] px-4 bg-white' >
+        <div className='w-full py-[7rem] px-10 bg-white' >
             <div className='max-w-[1100px] mx-auto grid md:grid-cols-3 gap-8' >
                 <div className='w-full p-5 shadow-xl rounded-md flex flex-col hover:scale-105 duration-300 ' >
                     <BsFillPersonCheckFill className='text-lg mx-auto ' />
